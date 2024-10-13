@@ -29,7 +29,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/orlando-barrientos-1687642b9" target="_blank">
+  <a href="https://www.linkedin.com/in/orlando-barrientos-1687642b9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=orlandoabarrientos@gmail.com" target="_blank">
