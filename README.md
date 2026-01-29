@@ -8,9 +8,7 @@
 
 <br>
 
-<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6Y3BxdnJxbmRqNXB4aXB4bXJxcWx4NzFxbXR2MXRxcWx4NzFxbXR2&rid=giphy.gif&ct=s" alt="Coding gif"/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+## 💫 **About Me**
 
 ```yaml
 name: Orlando Barrientos
@@ -24,11 +22,9 @@ passion: Building amazing things with code
 motto: "Embrace new experiences, never stop growing"
 ```
 
-<br clear="both">
-
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Tech Stack**
+## 🛠️ **Tech Stack**
 
 <div align="center">
 
@@ -47,7 +43,7 @@ motto: "Embrace new experiences, never stop growing"
 ![MySQL](https://img.shields.io/badge/MySQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFE500?style=for-the-badge&logo=postgresql&logoColor=1a1a2e)
 
-### 🛠️ Tools
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-FFE500?style=for-the-badge&logo=visual-studio-code&logoColor=1a1a2e)
 
@@ -55,7 +51,7 @@ motto: "Embrace new experiences, never stop growing"
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **GitHub Analytics**
+## 📊 **GitHub Analytics**
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=orlandoabarrientos&show_icons=true&count_private=true&hide_border=true&title_color=FFE500&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="Orlando's github stats" /> 
@@ -70,26 +66,6 @@ motto: "Embrace new experiences, never stop growing"
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=orlandoabarrientos&custom_title=Orlando's%20Contribution%20Graph&bg_color=0d1117&color=FFE500&line=8B5CF6&point=FFE500&area_color=8B5CF6&area=true&hide_border=true" alt="contribution graph">
-</div>
-
----
-
-## 🐍 **Watch the Snake Eat My Contributions**
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orlandoabarrientos/orlandoabarrientos/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/orlandoabarrientos/orlandoabarrientos/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/orlandoabarrientos/orlandoabarrientos/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=orlandoabarrientos&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="trophies"/>
 </div>
 
 ---
