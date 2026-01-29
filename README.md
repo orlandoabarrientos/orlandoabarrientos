@@ -8,7 +8,9 @@
 
 <br>
 
-## 💫 **About Me**
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding gif"/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 ```yaml
 name: Orlando Barrientos
@@ -22,9 +24,11 @@ passion: Building amazing things with code
 motto: "Embrace new experiences, never stop growing"
 ```
 
+<br clear="both">
+
 ---
 
-## 🛠️ **Tech Stack**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Tech Stack**
 
 <div align="center">
 
@@ -51,21 +55,10 @@ motto: "Embrace new experiences, never stop growing"
 
 ---
 
-## 📊 **GitHub Analytics**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **Most Used Languages**
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=orlandoabarrientos&show_icons=true&count_private=true&hide_border=true&title_color=FFE500&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="Orlando's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandoabarrientos&layout=compact&hide_border=true&title_color=FFE500&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orlandoabarrientos&theme=midnight-purple&hide_border=true&stroke=FFE500&ring=8B5CF6&fire=FFE500&currStreakNum=FFE500&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=FFE500&dates=c9d1d9&background=0d1117" alt="Orlando's streak"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orlandoabarrientos&custom_title=Orlando's%20Contribution%20Graph&bg_color=0d1117&color=FFE500&line=8B5CF6&point=FFE500&area_color=8B5CF6&area=true&hide_border=true" alt="contribution graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandoabarrientos&layout=compact&hide_border=true&title_color=FFE500&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages"/>
 </div>
 
 ---
